@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/skaffold/examples/jib/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/examples/buildpacks-java/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/examples/jib-multimodule/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/examples/dev-journey-buildpacks/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/integration/examples/jib/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/integration/examples/buildpacks-java/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/integration/examples/jib-multimodule/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/integration/examples/dev-journey-buildpacks/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/integration/testdata/jib/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/integration/testdata/debug/java/pom.xml" />
+        <option value="$PROJECT_DIR$/skaffold/examples/jib-sync/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
